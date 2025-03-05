@@ -80,6 +80,8 @@
     "@coinbase/coinbase-sdk": "0.10.0",
     "@deepgram/sdk": "^3.9.0",
     "@elizaos-plugins/adapter-sqlite": "workspace:*",
+    "@elizaos/client-discord": "0.25.6-alpha.1",
+    "@elizaos/plugin-evm": "0.25.6-alpha.1",
     "@injectivelabs/sdk-ts": "^1.14.33",
     "@vitest/eslint-plugin": "1.0.1",
     "amqplib": "0.10.5",
