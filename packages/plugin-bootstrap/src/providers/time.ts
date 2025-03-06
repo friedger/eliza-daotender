@@ -6,7 +6,7 @@ const timeProvider: Provider = {
 
         // Get UTC time since bots will be communicating with users around the global
         const options = {
-            timeZone: "UTC",
+            timeZone: "Europe/Brussels",
             dateStyle: "full" as const,
             timeStyle: "long" as const,
         };
